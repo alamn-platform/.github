@@ -1,4 +1,4 @@
-# Alamn Alawal — علم الأول
+# Alamn Alawal — الأمن الأول
 
 Sovereign intelligence platform. The entire backend ships as **one binary** —
 no external services, no sidecars, no Docker stack. A single process owns the
