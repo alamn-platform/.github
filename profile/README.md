@@ -16,8 +16,8 @@ Two constraints shape every decision:
 | | |
 |---|---|
 | **[alamn-rust](../../alamn-rust)** | The platform. Cargo workspace: 30 domain crates, `alamn-server`, `alamn-cli`. |
-| **[alamn-web](../../alamn-web)** | Analyst SPA — React 19, Vite, Tailwind, shadcn. Bilingual en/ar with RTL. |
-| **[alamn-reference-ui](../../alamn-reference-ui)** | Design-language prototype. Isolated by constraint: no backend, no shared code. |
+| **[alamn-web](../../alamn-web)** | Separate incumbent analyst SPA. Bilingual en/ar with RTL. |
+| **[alamn-reference-ui](../../alamn-reference-ui)** | Product frontend with Rust API and reference fixture modes. No shared frontend source. |
 | **[alamn-docs](../../alamn-docs)** | Architecture, ADRs, and how the repos fit together. **Start here.** |
 | **[alamn-cortex-legacy](../../alamn-cortex-legacy)** | The Python Cortex backend that `alamn-rust` replaces. Archived. |
 | **[alamn-v1-preview](../../alamn-v1-preview)** | v1.0 product preview and wireframes. Archived. |
